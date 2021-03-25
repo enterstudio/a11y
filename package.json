@@ -53,12 +53,12 @@
     "humanize-url": "^1.0.0",
     "indent-string": "^2.1.0",
     "log-symbols": "^1.0.1",
-    "meow": "^3.3.0",
+    "meow": "^8.0.0",
     "object-assign": "^4.0.1",
     "parse-json": "^2.1.0",
     "phantomjs-polyfill": "0.0.2",
     "phantomjs-prebuilt": "^2.1.12",
-    "protocolify": "^1.0.0",
+    "protocolify": "^2.0.0",
     "update-notifier": "^0.6.0"
   },
   "devDependencies": {
